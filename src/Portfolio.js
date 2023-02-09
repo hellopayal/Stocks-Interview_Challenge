@@ -3,7 +3,7 @@ import stocks from "../stocks.json" assert { type: "json" };
 const Portfolio = (input) => {
   let totalValue = 0;
   var item = input.split(",")
-  console.log(item)
+  
   item.map((stock) => {
     const ticker = stock.split(':')[0];
     const quantity = stock.split(':')[1];

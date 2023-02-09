@@ -22,7 +22,9 @@ switch(part){
     case '-part1' : {
         console.log(Portfolio(input));
     }
+    break;
     case '-part2' : {
         console.log(MaxProfit(input));
     }
+    break;
 }
