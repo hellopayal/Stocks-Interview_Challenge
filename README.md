@@ -2,7 +2,7 @@
 
 This project contains a simple funciton to calculate the maximum profit that can be made with a given set of timely ordered ( time-series) stock prices.
 
-**Ex:** prices = [ 3, 5, 7, 9, 4, 1, 4]
+**Ex:** prices = "7, 1, 5, 3, 6, 4"
 **Ans:**  Profit = 6
 
 **Conditions:**
@@ -35,7 +35,7 @@ To solve this,  I have used a subsequent number comparison technique and buffer 
 
 #### How to run?
 
-1. `git clone https://github.com/hellopayal/stock-profit.git`
-2. `cd stock-profit`
+1. `git clone https://github.com/hellopayal/stock-interview_challenge.git`
+2. `cd stock--interview_challenge`
 3. `npm install`
 4. `npm run test`
