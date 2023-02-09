@@ -1,0 +1,19 @@
+{
+  "name": "stocks-profit",
+  "version": "1.0.0",
+  "description": "This project contains a simple funciton to calculate the maximum profit that can be made with a given set of timely ordered ( time-series) stock prices.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
