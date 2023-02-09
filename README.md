@@ -38,4 +38,4 @@ To solve this,  I have used a subsequent number comparison technique and buffer 
 1. `git clone https://github.com/hellopayal/stock-interview_challenge.git`
 2. `cd stock--interview_challenge`
 3. `npm install`
-4. `npm run test`
+4. `npm run start -- -part1 "FB:12,PLTR:5000";                         `
