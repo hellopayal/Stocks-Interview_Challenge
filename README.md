@@ -39,4 +39,4 @@ To solve this,  I have used a subsequent number comparison technique and buffer 
 2. `cd stock--interview_challenge`
 3. `npm install`
 4. `npm run start -- -part1 "FB:12,PLTR:5000";   
-5  `npm run test -- -part2 "7, 1, 5, 3, 6, 4"  `
+5.  `npm run test -- -part2 "7, 1, 5, 3, 6, 4"  `
